@@ -18,7 +18,7 @@ This document provides official documentation and learning resources for each ch
 ### Challenge 2: Reusable ListItem Component
 **Official Documentation:**
 - [Passing Props to a Component](https://react.dev/learn/passing-props-to-a-component)
-- [Extracting Components](https://react.dev/learn/extracting-components)
+- ~~[Extracting Components](https://react.dev/learn/extracting-components)~~
 
 **Community Resources:**
 - [React Component Patterns](https://kentcdodds.com/blog/advanced-react-component-patterns) - Kent C. Dodds
@@ -41,8 +41,8 @@ This document provides official documentation and learning resources for each ch
 
 **Community Resources:**
 - [MDN - Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
-- [React Lists and Keys Deep Dive](https://daveceddia.com/react-keys/) - Dave Ceddia
-- [Why Do React Elements Need Keys?](https://epicreact.dev/why-react-needs-keys/) - Epic React
+- ~~[React Lists and Keys Deep Dive](https://daveceddia.com/react-keys/) - Dave Ceddia~~
+- ~~[Why Do React Elements Need Keys?](https://epicreact.dev/why-react-needs-keys/) - Epic React~~
 
 ### Challenge 5: Composition with Card
 **Official Documentation:**
@@ -91,7 +91,7 @@ This document provides official documentation and learning resources for each ch
 **Community Resources:**
 - [MDN - preventDefault](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
 - [React Forms Tutorial](https://www.robinwieruch.de/react-form/) - Robin Wieruch
-- [Form Handling Best Practices](https://felixgerschau.com/react-forms-best-practices/) - Felix Gerschau
+- ~~[Form Handling Best Practices](https://felixgerschau.com/react-forms-best-practices/) - Felix Gerschau~~
 
 ### Challenge 10: Immutability in Updates
 **Official Documentation:**
@@ -119,7 +119,7 @@ This document provides official documentation and learning resources for each ch
 
 **Community Resources:**
 - [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) - Dan Abramov
-- [useEffect Dependency Array](https://dmitripavlutin.com/react-useeffect-dependencies/) - Dmitri Pavlutin
+- ~~[useEffect Dependency Array](https://dmitripavlutin.com/react-useeffect-dependencies/) - Dmitri Pavlutin~~
 
 ## Phase 3: Scaling State
 
@@ -176,7 +176,7 @@ This document provides official documentation and learning resources for each ch
 
 **Community Resources:**
 - [Data Fetching in React](https://www.robinwieruch.de/react-hooks-fetch-data/) - Robin Wieruch
-- [Async/Await with useEffect](https://dmitripavlutin.com/react-useeffect-async/) - Dmitri Pavlutin
+- ~~[Async/Await with useEffect](https://dmitripavlutin.com/react-useeffect-async/) - Dmitri Pavlutin~~
 - [React Query Documentation](https://tanstack.com/query/latest) - For advanced data fetching
 - [SWR Documentation](https://swr.vercel.app/) - Alternative data fetching library
 
@@ -202,8 +202,8 @@ This document provides official documentation and learning resources for each ch
 - [Queueing a Series of State Updates](https://react.dev/learn/queueing-a-series-of-state-updates)
 
 **Community Resources:**
-- [Optimistic UI Patterns](https://www.apollographql.com/docs/apollo-client/performance/optimistic-ui/) - Apollo GraphQL
-- [Optimistic Updates with React Query](https://tkdodo.eu/blog/optimistic-updates-in-react-query)
+- ~~[Optimistic UI Patterns](https://www.apollographql.com/docs/apollo-client/performance/optimistic-ui/) - Apollo GraphQL~~
+- ~~[Optimistic Updates with React Query](https://tkdodo.eu/blog/optimistic-updates-in-react-query)~~
 
 ## Phase 5: Advanced State Management
 
@@ -216,7 +216,7 @@ This document provides official documentation and learning resources for each ch
 **Community Resources:**
 - [React Router Documentation](https://reactrouter.com/) - For client-side routing
 - [Next.js Routing Tutorial](https://nextjs.org/learn/dashboard-app/navigating-between-pages)
-- [URL State Management](https://www.smashingmagazine.com/2022/06/react-router-state-management/)
+- ~~[URL State Management](https://www.smashingmagazine.com/2022/06/react-router-state-management/)~~
 
 ### Challenge 23: Redux Toolkit Store
 **Official Documentation:**
@@ -275,7 +275,7 @@ This document provides official documentation and learning resources for each ch
 
 ### Challenge 28: Basic Testing
 **Official Documentation:**
-- [Testing Overview](https://react.dev/learn/testing)
+- ~~[Testing Overview](https://react.dev/learn/testing)~~
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - [Jest Documentation](https://jestjs.io/docs/getting-started)
 
@@ -290,7 +290,7 @@ This document provides official documentation and learning resources for each ch
 - [Testing Library Guiding Principles](https://testing-library.com/docs/guiding-principles)
 
 **Community Resources:**
-- [Integration Testing in React](https://kentcdodds.com/blog/integration-tests) - Kent C. Dodds
+- ~~[Integration Testing in React](https://kentcdodds.com/blog/integration-tests) - Kent C. Dodds~~
 - [MSW (Mock Service Worker)](https://mswjs.io/) - API mocking for tests
 - [Cypress Documentation](https://docs.cypress.io/) - E2E testing
 - [Playwright for React](https://playwright.dev/docs/test-components) - Modern E2E testing
@@ -321,7 +321,7 @@ This document provides official documentation and learning resources for each ch
 ### Interactive Learning
 - [Scrimba React Course](https://scrimba.com/learn/learnreact) - Interactive video tutorials
 - [React.dev Learn](https://react.dev/learn) - Official interactive tutorial
-- [Educative React Courses](https://www.educative.io/courses/react-hooks-api) - Text-based learning
+- ~~[Educative React Courses](https://www.educative.io/courses/react-hooks-api) - Text-based learning~~
 
 ### Documentation & References
 - [React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Browser extension
