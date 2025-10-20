@@ -5,6 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "next dev",
+    "dev:jeanne": "next dev -p 3001 ./student/jeanne",
+    "dev:kevin": "next dev -p 3002 ./student/kevin",
+    "dev:sapna": "next dev -p 3003 ./student/sapna",
+    "dev:sean": "next dev -p 3004 ./student/sean",
+    "dev:tim": "next dev -p 3005 ./student/tim",
     "build": "next build",
     "start": "next start",
     "lint": "eslint . --ext .ts,.tsx --max-warnings=0",
