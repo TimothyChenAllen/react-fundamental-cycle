@@ -10,6 +10,7 @@
     "dev:sapna": "next dev -p 3003 ./student/sapna",
     "dev:sean": "next dev -p 3004 ./student/sean",
     "dev:tim": "next dev -p 3005 ./student/tim",
+    "dev:john": "next dev -p 3005 ./student/john",
     "build": "next build",
     "start": "next start",
     "lint": "eslint . --ext .ts,.tsx --max-warnings=0",
