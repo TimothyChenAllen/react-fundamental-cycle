@@ -63,13 +63,17 @@ challenges/
 
 ### Working on Challenges
 
+*Note*: your working directory is `student/YOUR_NAME`. Inside that is `app/page.tsx`. That will be
+the starting point of your app.
+
 1. **Read the Challenge**: Start with `CHALLENGE.md` in each challenge directory
 2. **Understand Requirements**: Review the objective, requirements, and expected outcomes
 3. **Read the Resources**: Review [RESOURCES.md](RESOURCES.md) for web resources
-4. **Implement Your Solution**: Create your own implementation based on the requirements
-5. **Test Your Work**: Run `npm run test` to verify your solution passes the tests
-6. **Compare with Solution**: Review the provided `Solution.tsx` to learn from the reference implementation
-7. **Move to Next Challenge**: Each challenge builds upon the previous ones
+4. **Create a git branch**. Use `git switch -c 001-static-master-detail-layout-john` (for example) to create and switch to a new branch.
+5. **Implement Your Solution**: Create your own implementation based on the requirements
+6. **Test Your Work**: Run `npm run test` to verify your solution passes the tests
+7. **Compare with Solution**: Review the provided `Solution.tsx` to learn from the reference implementation
+8. **Move to Next Challenge**: Each challenge builds upon the previous ones. Remember to create a new branch!
 
 ### Development Environment
 
